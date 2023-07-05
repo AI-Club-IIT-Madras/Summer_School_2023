@@ -1,0 +1,328 @@
+S.No,EmpID,Emp Name,DOJ,Designation,Grade,Attrition ,Location,In Active Date,Tenure,Gender,Education,Age,Last Rating,Monthly Income,Engagement Score (% Satisfaction),Marital Status,Zone,Remarks
+1,XYZ2685,ABC1,22-Nov-10,Sales Executive,E1,Yes,Bhavnagar,26-May-12,1. 6 ,Female,Bachelors,27,4,25535,2%,Divorced,West,Issues with the Manager
+2,XYZ2490,ABC2,5-Jul-10,Technical Services Officer,M2,Yes,Jayanagar,6-Apr-12,1. 9 ,Male,MBA,36,2,52155,45%,Single ,South,More Challenging Job Roles/ Higher designation
+3,XYZ2662,ABC3,20-Oct-10,Sales Executive,E1,Yes,Indore,7-Apr-12,1. 5 ,Male,Bachelors,24,4,26438,18%,Divorced,CENTRAL,Issues with the Manager
+4,XYZ1679,ABC4,1 May 08,AM - Sales,M1,Yes,Admin Gujarat,3 Apr 12,3 .11 ,Male,Bachelors,33,2,54311,82%,Single ,West,Lack of Growth
+5,XYZ2378,ABC5,3 Mar 10,Sales Executive ,E1,Yes,Jagdishpuram,10 Apr 12,2 .1 ,Male,Bachelors,24,4,26702,49%,Divorced,North,Issues with the Manager
+6,XYZ3009,ABC6,17 Nov 11,Sales Executive,E1,Yes,Lalganj,9 Apr 12,0. 4 ,Male,Bachelors,26,4,26291,81%,Single ,North,Better Salary
+7,XYZ2783,ABC7,7 Feb 11,Sales Executive ,E1,Yes,Trombay,9 Apr 12,1. 2 ,Male,Bachelors,24,2,26663,2%,Divorced,West,Lack of Growth
+8,XYZ2657,ABC8,20 Oct 10,Sales Executive,E1,Yes,Sinahagad,11 Apr 12,1. 5 ,Male,Bachelors,27,3,25633,50%,Married,West,Issues with the Manager
+9,XYZ3046,ABC9,1 Feb 12,Sales Executive,E1,Yes,Vasai,5 Apr 12,0. 2 ,Female,Bachelors,26,2,25010,42%,Married,West,Lack of Growth
+10,XYZ2845,ABC10,11-Apr-11,Sales Executive,E1,Yes,Kozhikode,21-Apr-12,1. 0 ,Male,Bachelors,26,3,25918,9%,Single ,SOUTH,Issues with the Manager
+11,XYZ2194,ABC11,12-Apr-11,Sales Executive,E1,Yes,Haridwar,21-Apr-12,2 .5 ,Male,Bachelors,27,2,25393,71%,Single ,NORTH,Issues with the Manager
+12,XYZ2255,ABC12,18-Dec-09,Sales Executive,E1,Yes,Jayanagar,3-May-12,2 .4 ,Male,Bachelors,27,3,25473,75%,Married,South,Issues with the Manager
+13,XYZ1055,ABC13,1-Aug-07,Sr Sales Executive,E2,Yes,Kozhikode,19-Apr-12,4 .8 ,Male,Bachelors,28,2,39112,57%,Divorced,SOUTH,Lack of Growth
+14,XYZ2828,ABC14,28 Mar 11,Sales Executive ,E1,Yes,Madurai,10 May 12,1. 1 ,Male,Bachelors,25,4,25168,3%,Divorced,South,Issues with the Manager
+15,XYZ2860,ABC15,11 Jan 10,Sales Executive,E1,Yes,Jammu,19 Apr 12,2 .3 ,Male,Bachelors,25,4,26969,55%,Single ,North,Lack of Growth
+16,XYZ2812,ABC16,14 Mar 11,Sales Executive,E1,Yes,Madurai,9 May 12,1. 1 ,Female,Bachelors,26,4,26266,53%,Single ,South,Lack of Growth
+17,XYZ3036,ABC17,20-Jan-12,Technical Services Officer,M2,Yes,Dehradun,5-Apr-12,0. 2 ,Male,MBA,39,3,54087,45%,Single ,North,Better Salary
+18,XYZ2339,ABC18,1-Feb-10,Sales Executive ,E1,Yes,Jammu,21-Apr-12,2 .2 ,Male,Bachelors,25,4,25264,34%,Divorced,NORTH,Issues with the Manager
+19,XYZ2173,ABC19,22 Sep 09,Sales Executive,E1,Yes,Madurai,15 May 12,2 .7 ,Male,Bachelors,27,2,26429,28%,Single ,South,Issues with the Manager
+20,XYZ2611,ABC20,20-Dec-10,Sales Executive ,E1,Yes,Hinoo,3 Apr 12,1. 3 ,Male,Bachelors,26,3,26509,79%,Divorced,East,Issues with the Manager
+21,XYZ0214,ABC21,3-Jun-05,Sales Executive ,E1,Yes,Madurai,13-Apr-12,6 .10 ,Male,Bachelors,27,2,26976,5%,Divorced,South,Lack of Growth
+22,XYZ1916,ABC22,14-Nov-08,Sr Sales Executive,E2,Yes,Balasore,10-Apr-12,3 .4 ,Male,Bachelors,32,4,30041,39%,Married,East,Lack of Growth
+23,XYZ2240,ABC23,25-Nov-09,Sales Executive,E1,Yes,Bilaspur,7-Apr-12,2 .4 ,Male,Bachelors,27,3,25882,44%,Married,CENTRAL,Absconding
+24,XYZ2836,ABC24,28-Mar-11,Sales Executive,E1,Yes,Madurai,13-Apr-12,1. 0 ,Male,Bachelors,27,2,26553,65%,Married,South,Issues with the Manager
+25,XYZ2368,ABC25,25 Mar 10,Sales Executive,E1,Yes,Pune,30 Apr 12,2 .1 ,Male,Bachelors,26,2,26304,12%,Divorced,West,Lack of Growth
+26,XYZ2574,ABC26,30 Aug 10,Sales Executive ,E1,Yes,Gurukul,9 May 12,1. 8 ,Male,Bachelors,24,4,25617,35%,Single ,West,Issues with the Manager
+27,XYZ1507,ABC27,12-May-08,Sr Sales Executive,E2,Yes,ZO Kolkata,30 Apr 12,3 .11 ,Male,Bachelors,33,4,32527,13%,Single ,East,Lack of Growth
+28,XYZ2813,ABC28,10-Mar-11,Sales Executive,E1,Yes,Madurai,4-Apr-12,1. 0 ,Male,Bachelors,24,4,26073,51%,Single ,South,Lack of Growth
+29,XYZ1636,ABC29,2 Jun 08,AM - Sales,M1,Yes,Jagatpur,15 Apr 12,3 .10 ,Male,Bachelors,33,2,50671,23%,Married,North,Lack of Growth
+30,XYZ2853,ABC30,5 Apr 11,AM - Sales,M1,Yes,Admin Maharastra,30 Apr 12,1. 0 ,Male,Bachelors,40,3,54550,100%,Divorced,West,Lack of Growth
+31,XYZ2294,ABC31,11-Jan-10,Sales Executive,E1,Yes,Patiala,16-Apr-12,2 .3 ,Male,Bachelors,28,2,25895,69%,Married,North,Issues with the Manager
+32,XYZ2856,ABC32,20 Apr 11,Technical Services Officer,M2,Yes,Madurai,16 May 12,1. 0 ,Male,MBA,44,3,55470,63%,Divorced,South,More Challenging Job Roles/ Higher designation
+33,XYZ3083,ABC33,14 Mar 12,Sales Executive,E1,Yes,Nasik,3 Jun 12,0. 2 ,Male,Bachelors,27,2,25373,13%,Married,West,Issues with the Manager
+34,XYZ1540,ABC34,26-May-08,Sales Executive,E1,Yes,Trivandrum,19-Apr-12,3 .10 ,Male,Bachelors,28,4,25391,13%,Divorced,South,Issues with the Manager
+35,XYZ2878,ABC35,16 May 11,Sales Executive,E1,Yes,Trivandrum,9 Jun 12,1. 0 ,Male,Bachelors,26,3,26467,89%,Divorced,South,Issues with the Manager
+36,XYZ1649,ABC36,2 Jun 08,Sales Executive,E1,Yes,Trivandrum,20 May 12,3 .11 ,Female,Bachelors,24,2,25632,13%,Single ,South,Lack of Growth
+37,XYZ2817,ABC37,28 Mar 11,Sales Executive,E1,Yes,Trivandrum,22 May 12,1. 1 ,Male,Bachelors,24,2,26219,18%,Divorced,South,Issues with the Manager
+38,XYZ2473,ABC38,23-Jun-10,Sales Executive,E1,Yes,Dumdum,27 Apr 12,1. 10 ,Male,Bachelors,26,2,25895,47%,Married,East,Lack of Growth
+39,XYZ2643,ABC39,15-Sep-10,Sales Executive,E1,Yes,Bally,18 Apr 12,1. 7 ,Male,Bachelors,26,2,26695,3%,Married,East,Lack of Growth
+40,XYZ1601,ABC40,10 Jun 08,Sr Sales Executive ,E2,Yes,Kozhikode,12 Jun 12,4 .0 ,Male,Bachelors,30,2,37473,59%,Single ,South,Lack of Growth
+41,XYZ2592,ABC41,30 Aug 10,Sales Executive,E1,Yes,Cuttack,19 Apr 12,1. 7 ,Male,Bachelors,25,2,26707,52%,Single ,East,Issues with the Manager
+42,XYZ2669,ABC42,1 Nov 10,Sales Executive ,E1,Yes,Vellore,24 May 12,1. 6 ,Male,Bachelors,27,2,25789,42%,Single ,South,Issues with the Manager
+43,XYZ2743,ABC43,21 Jan 11,Sales Executive,E1,Yes,Vyara,24 May 12,1. 4 ,Male,Bachelors,25,2,25678,29%,Divorced,West,Issues with the Manager
+44,XYZ0955,ABC44,20 Nov 06,Sales Executive ,E1,Yes,Vellore,20 May 12,5 .6 ,Male,Bachelors,24,2,25692,58%,Married,South,Lack of Growth
+45,XYZ2076,ABC45,13 Feb 09,Sr Sales Executive,E2,Yes,ZO Mumbai,16 Jun 12,3 .4 ,Female,Bachelors,27,2,33648,91%,Married,West,Issues with the Manager
+46,XYZ2848,ABC46,1 Apr 11, Sales Executive,E1,Yes,Rohini,15 May 12,1. 1 ,Female,Bachelors,28,2,25348,12%,Single ,North,Issues with the Manager
+47,XYZ0063,ABC47,05/Jan/07,Regional Manager,M3,Yes,HO Hyderabad,8 May 12,5 .4 ,Female,Bachelors,36,4,58259,27%,Single ,HO,More Challenging Job Roles/ Higher designation
+48,XYZ1631,ABC48,7 Jun 08,Sales Executive,E1,Yes,Varanasi,15 Jun 12,4 .0 ,Male,Bachelors,27,2,25012,68%,Single ,North,Issues with the Manager
+49,XYZ2639,ABC49,21 Sep 10, Sales Executive,E1,Yes,,12 Jun 12,1. 8 ,Male,Bachelors,27,3,25379,57%,Divorced,East,Issues with the Manager
+50,XYZ2911,ABC50,25 May 12,AM - Sales,M1,Yes,HO Hyderabad,12 Jul 12,0. 1 ,Male,Bachelors,35,2,50003,38%,Divorced,HO,Lack of Growth
+51,XYZ2430,ABC51,10 May 10,Technical Services Officer,M2,Yes,Koyambedu,19 Jun 12,2 .1 ,Male,MBA,41,2,53762,0%,Married,South,More Challenging Job Roles/ Higher designation
+52,XYZ2433,ABC52,10 May 10,Sales Executive ,E1,Yes,Madurai (Thallakulam),30 Jun 12,2 .1 ,Female,Bachelors,24,3,26236,79%,Divorced,South,Lack of Growth
+53,XYZ2578,ABC53,30-Aug-10,Sales Executive,E1,Yes,Siliguri,20 Apr 12,1. 7 ,Male,Bachelors,28,2,25077,20%,Married,East,Lack of Growth
+54,XYZ2710,ABC54,8 Dec 10,Sr Sales Executive,E2,Yes,ZO Mumbai,16 Jun 12,1. 6 ,Male,Bachelors,28,4,38348,67%,Married,West,Issues with the Manager
+55,XYZ2887,ABC55,18 May 12,Regional Manager,M3,Yes,HO Hyderabad,19 Jul 12,0. 2 ,Female,Bachelors,35,4,54583,75%,Married,HO,More Challenging Job Roles/ Higher designation
+56,XYZ2509,ABC56,21 Jul 10,Sales Executive,E1,Yes,Kanpur,9 Jul 12,1. 11 ,Male,Bachelors,26,2,25702,62%,Single ,Central,Issues with the Manager
+57,XYZ2735,ABC57,3 Jan 11,Sales Executive,E1,Yes,Lalpur,7 Jul 12,1. 6 ,Male,Bachelors,26,4,25970,60%,Single ,East,Issues with the Manager
+58,XYZ2385,ABC58,13 Apr 10,Sales Executive,E1,Yes,Raipur,21 Jun 12,2 .2 ,Male,Bachelors,28,2,25688,52%,Single ,Central,Lack of Growth
+59,XYZ2471,ABC59,15 Jun 10,Sales Executive,E1,Yes,Velachery,3 Jul 12,2 .0 ,Male,Bachelors,27,2,26917,93%,Divorced,South,Issues with the Manager
+60,XYZ3043,ABC60,1 Feb 12,Sales Executive,E1,Yes,Najafgarh,7 Jul 12,0. 5 ,Male,Bachelors,24,3,25388,35%,Married,North,Issues with the Manager
+61,XYZ2941,ABC61,11 Jul 11,Sales Executive,E1,Yes,Sultanpur,22 Jun 12,0. 11 ,Male,Bachelors,24,2,26537,19%,Married,North,Issues with the Manager
+62,XYZ2558,ABC62,9 Aug 10,Sales Executive ,E1,Yes,Gurubuxganj,27 Jun 12,1. 10 ,Male,Bachelors,25,2,26614,51%,Divorced,North,Lack of Growth
+63,XYZ3050,ABC63,10 Feb 12,Sales Executive,E1,Yes,Shimla,7 Jul 12,0. 4 ,Male,Bachelors,25,4,26566,65%,Divorced,North,Lack of Growth
+64,XYZ2962,ABC64,4 Nov 11,Sales Executive,E1,Yes,Gurukul,24 Jul 12,0. 8 ,Male,Bachelors,25,3,25998,40%,Married,West,Lack of Growth
+65,XYZ3154,ABC65,1 Jun 12,Technical Services Officer,M2,Yes,Anand (Ext Vadodara),24 Jul 12,0. 1 ,Male,MBA,37,3,54774,68%,Divorced,West,Lack of Growth
+66,XYZ3045,ABC66,7 Feb 12,Sales Executive ,E1,Yes,Rohini,6 Jul 12,0. 4 ,Male,Bachelors,26,2,25770,69%,Married,North,Issues with the Manager
+67,XYZ1727,ABC67,25 Jun 08,Sr Sales Executive ,E2,Yes,Shahpura,5 Aug 12,4 .1 ,Male,Bachelors,30,4,38664,95%,Divorced,North,Lack of Growth
+68,XYZ2807,ABC68,7 Mar 11,Sales Executive,E1,Yes,Bhavnagar,5 Aug 12,1. 4 ,Female,Bachelors,26,4,26320,45%,Divorced,West,Lack of Growth
+69,XYZ2623,ABC69,7 Sep 10,Sales Executive,E1,Yes,Gondal,10 Aug 12,1. 11 ,Male,Bachelors,28,3,26015,64%,Single ,West,Lack of Growth
+70,XYZ1257,ABC70,12 Nov 07,Sr Sales Executive,E2,Yes,HO Hyderabad,11 Aug 12,4 .8 ,Male,Bachelors,31,3,32025,46%,Single ,HO,Lack of Growth
+71,XYZ1195,ABC71,10 Oct 07,Sr Sales Executive,E2,Yes,HO Hyderabad,10 Aug 12,4 .10 ,Male,Bachelors,35,4,35166,73%,Single ,HO,Issues with the Manager
+72,XYZ2027,ABC72,20 Dec 08,Sales Executive ,E1,Yes,Sonipat,31 May 12,3 .5 ,Male,Bachelors,25,3,25940,90%,Married,North,Issues with the Manager
+73,XYZ3056,ABC73,23 Feb 12,AM - Sales,M1,Yes,Admin Delhi,12 Jun 12,0. 3 ,Male,Bachelors,35,3,51677,22%,Single ,North,More Challenging Job Roles/ Higher designation
+74,XYZ3143,ABC74,21 May 12,Sales Executive,E1,Yes,Tilak Vihar,5 Jul 12,0. 1 ,Male,Bachelors,27,4,25675,84%,Single ,North,Issues with the Manager
+75,XYZ2415,ABC75,6 May 10,AM - Sales,M1,Yes,Velachery,10 Jul 12,2 .2 ,Female,Bachelors,32,3,50129,80%,Divorced,South,Lack of Growth
+76,XYZ1423,ABC76,16 Feb 08,Sales Executive ,E1,Yes,Velachery,24 Jul 12,4 .5 ,Male,Bachelors,24,3,25487,63%,Single ,South,Lack of Growth
+77,XYZ3114,ABC77,1 May 12,Regional Manager,M3,Yes,HO Hyderabad,4 Jul 12,0. 2 ,Male,Bachelors,35,4,54660,30%,Divorced,HO,Termination - Theft
+78,XYZ2865,ABC78,2 May 11,Sales Executive,E1,Yes,Jagdispuram,2 Aug 12,1. 3 ,Male,Bachelors,26,4,26324,76%,Divorced,North,Lack of Growth
+79,XYZ2775,ABC79,21 Feb 11,Sales Executive,E1,Yes,Shahpura,17 Jul 12,1. 4 ,Female,Bachelors,28,4,25368,94%,Divorced,North,Issues with the Manager
+80,XYZ2435,ABC80,10 May 10,Sales Executive,E1,Yes,Koyambedu,21 Aug 12,2 .3 ,Male,Bachelors,27,4,25831,33%,Divorced,South,Issues with the Manager
+81,XYZ2494,ABC81,05-07-2010,Sales Executive,E1,Yes,Magadi Road,20 Aug 12,2 .3 ,Male,Bachelors,24,2,26753,70%,Married,South,Issues with the Manager
+82,XYZ2633,ABC82,02-09-2010,Zonal Manager,M4,Yes,HO Hyderabad,31 Aug 12,2 .6 ,Male,Bachelors,45,2,91388,41%,Married,HO,More Challenging Job Roles/ Higher designation
+83,XYZ2946,ABC83,01-08-2011,Sales Executive,E1,Yes,ZO Delhi,9 Jun 12,1. 5 ,Male,Bachelors,27,4,25728,90%,Divorced,North,More Challenging Job Roles/ Higher designation
+84,XYZ0698,ABC84,8 Jul 06,Sales Executive ,E1,Yes,Trivandrum,26 May 12,5 .10 ,Male,Bachelors,26,4,26451,25%,Divorced,South,Lack of Growth
+85,XYZ3101,ABC85,16 Apr 12,Sales Executive,E1,Yes,Kalyan,6 Jun 12,0. 1 ,Male,Bachelors,28,4,26159,2%,Married,West,Lack of Growth
+86,XYZ0657,ABC86,15 Jun 06,Technical Services Officer,M2,Yes,Trivandrum,19 Jun 12,6 .0 ,Male,MBA,35,3,56534,86%,Single ,South,More Challenging Job Roles/ Higher designation
+87,XYZ3127,ABC87,11 May 12,Sales Executive,E1,Yes,Pune,20 May 12,0. 0 ,Male,Bachelors,25,2,25720,96%,Single ,West,Issues with the Manager
+88,XYZ2799,ABC88,21 Feb 11,Sales Executive,E1,Yes,Loni,30 Jul 12,1. 5 ,Male,Bachelors,28,4,25427,71%,Married,North,Lack of Growth
+89,XYZ1755,ABC89,1 Aug 08,Sales Executive ,E1,Yes,Velachery,31 Jul 12,3 .11 ,Male,Bachelors,28,4,25248,51%,Married,South,Lack of Growth
+90,XYZ2249,ABC90,7 Dec 09,Sales Executive,E1,Yes,Dumdum,30 Jul 12,2 .7 ,Male,Bachelors,24,4,25669,34%,Divorced,East,Lack of Growth
+91,XYZ2598,ABC91,1 Sep 10, Sales Executive,E1,Yes,Kolkata,30 Jul 12,1. 10 ,Male,Bachelors,28,4,26314,91%,Divorced,East,Lack of Growth
+92,XYZ2857,ABC92,20 Apr 11,Sales Executive,E1,Yes,Jhansi,25 Jul 12,1. 3 ,Male,Bachelors,28,3,26389,96%,Divorced,Central,Lack of Growth
+93,XYZ2749,ABC93,14 Jan 11,Sr Sales Executive,E2,Yes,Kolkatta,31 Jul 12,1. 6 ,Male,Bachelors,31,2,32415,83%,Married,East,Issues with the Manager
+94,XYZ1990,ABC94,20 Dec 08,Sales Executive,E1,Yes,Vasai,7 Aug 12,3 .7 ,Male,Bachelors,28,3,25051,9%,Divorced,West,Issues with the Manager
+95,XYZ3051,ABC95,13 Feb 12,Sales Executive,E1,Yes,Allahabad,28 Apr 12,0. 2 ,Male,Bachelors,25,3,26129,62%,Married,CENTRAL,Issues with the Manager
+96,XYZ2913,ABC96,24 May 11,Sales Executive,E1,Yes,Jagdishpuram,25 Jun 12,1. 1 ,Male,Bachelors,27,4,25166,72%,Divorced,North,Issues with the Manager
+97,XYZ1805,ABC97,20 Sep 08,Sr Sales Executive ,E2,Yes,Mandi,1 Aug 12,3 .10 ,Male,Bachelors,28,2,32494,28%,Divorced,North,Lack of Growth
+98,XYZ1804,ABC98,1 Sep 08,Sales Executive ,E1,Yes,Haldwani,30 Jul 12,3 .10 ,Female,Bachelors,25,3,26654,14%,Single ,North,Better Salary
+99,XYZ2949,ABC99,16 Aug 11,Sales Executive,E1,Yes,Unchahar,19 Jul 12,0. 11 ,Male,Bachelors,24,4,26569,54%,Divorced,North,Issues with the Manager
+100,XYZ2917,ABC100,27 May 11,Sales Executive,E1,Yes,Sultanpur,30 Jul 12,1. 2 ,Male,Bachelors,26,3,26413,17%,Divorced,North,Lack of Growth
+101,XYZ2422,ABC101,10 May 10,Sales Executive ,E1,Yes,Varanasi,8 Aug 12,2 .2 ,Male,Bachelors,26,3,25536,23%,Married,CENTRAL,Issues with the Manager
+102,XYZ3141,ABC102,21 May 12,Sales Executive,E1,Yes,Trivandrum,30 May 12,0. 0 ,Male,Bachelors,24,4,25818,13%,Single ,South,Issues with the Manager
+103,XYZ3124,ABC103,1 May 12,Sales Executive,E1,Yes,Trivandrum,21 Jun 12,0. 1 ,Male,Bachelors,27,3,25878,3%,Divorced,South,Issues with the Manager
+104,XYZ3115,ABC104,1 May 12,Technical Services Officer,M2,Yes,Trivandrum,24 Jun 12,0. 1 ,Male,MBA,40,4,54060,66%,Single ,South,Lack of Growth
+105,XYZ3062,ABC105,24 Feb 12,Sales Executive,E1,Yes,Trivandrum,30 May 12,0. 3 ,Male,Bachelors,25,4,25021,44%,Single ,South,Issues with the Manager
+106,XYZ0739,ABC106,26 Oct 06,Sr Sales Executive ,E2,Yes,Trivandrum,15 Jul 12,5 .8 ,Male,Bachelors,27,4,33794,52%,Married,South,Lack of Growth
+107,XYZ3158,ABC107,12 Jun 12,Sales Executive,E1,Yes,Trivandrum,30 Jun 12,0. 0 ,Male,Bachelors,27,3,25630,60%,Married,South,Issues with the Manager
+108,XYZ2088,ABC108,27 Jan 09,Sales Executive,E1,Yes,Trivandrum,3 Jul 12,3 .5 ,Male,Bachelors,24,4,25635,88%,Divorced,South,Issues with the Manager
+109,XYZ3140,ABC109,21 May 12,Sales Executive,E1,Yes,Trivandrum,9 Jul 12,0. 1 ,Male,Bachelors,27,3,26659,97%,Single ,South,Issues with the Manager
+110,XYZ3123,ABC110,1 May 12,Technical Services Officer,M2,Yes,Trivandrum,18 Jul 12,0. 2 ,Male,MBA,35,3,55812,6%,Single ,South,More Challenging Job Roles/ Higher designation
+111,XYZ2338,ABC111,3 Feb 10,Sales Executive,E1,Yes,Lambhua,22 Aug 12,2 .6 ,Male,Bachelors,27,4,26210,61%,Divorced,North,Issues with the Manager
+112,XYZ2952,ABC112,15 Sep 11,Sr Sales Executive,E2,Yes,,21 Aug 12,0. 11 ,Male,Bachelors,33,4,34241,80%,Divorced,North,Issues with the Manager
+113,XYZ3125,ABC113,9 May 12,Sales Executive,E1,Yes,Varanasi,18 Aug 12,0. 3 ,Male,Bachelors,27,4,25978,23%,Single ,CENTRAL,Issues with the Manager
+114,XYZ3107,ABC114,16 Apr 12,Sales Executive,E1,Yes,Indore,4 Aug 12,0. 3 ,Male,Bachelors,24,3,26777,85%,Married,CENTRAL,Issues with the Manager
+115,XYZ3155,ABC115,1 Jun 12,Sales Executive,E1,Yes,Kanpur,31 Jul 12,0. 1 ,Male,Bachelors,27,4,25207,82%,Divorced,CENTRAL,Issues with the Manager
+116,XYZ3161,ABC116,21 Jun 12,Technical Services Officer,M2,Yes,Gurukul,4 Aug 12,0. 1 ,Male,MBA,37,3,53715,16%,Divorced,West,Lack of Growth
+117,XYZ2677,ABC117,12 Nov 10,Sales Executive,E1,Yes,Hadapsar,21 Aug 12,1. 9 ,Male,Bachelors,28,2,26380,82%,Divorced,West,Issues with the Manager
+118,XYZ3102,ABC118,16 Apr 12,Sales Executive,E1,Yes,Kalyan,8 Aug 12,0. 3 ,Male,Bachelors,27,4,25778,99%,Divorced,West,Issues with the Manager
+119,XYZ2912,ABC119,23 May 11,Sales Executive,E1,Yes,Trivandrum,21 Aug 12,1. 2 ,Male,Bachelors,24,4,26941,60%,Married,South,Issues with the Manager
+120,XYZ0548,ABC120,15 Dec 05,Sr Sales Executive,E2,Yes,Trivandrum,20 Aug 12,6 .8 ,Male,Bachelors,29,3,31336,22%,Divorced,South,Issues with the Manager
+121,XYZ0764,ABC121,12-03-2004,Technical Services Officer,M2,Yes,Trivandrum,9 Aug 12,7 .8 ,Male,MBA,45,3,54381,66%,Divorced,South,More Challenging Job Roles/ Higher designation
+122,XYZ2495,ABC122,05-07-2010,Sales Executive ,E1,Yes,Devenahalli,8 Sep 12,2 .4 ,Male,Bachelors,28,4,26614,17%,Married,South,Lack of Growth
+123,XYZ2607,ABC123,12 Dec 10,Sales Executive,E1,Yes,Trichy,31 Aug 12,1. 8 ,Male,Bachelors,28,4,26702,20%,Divorced,South,Issues with the Manager
+124,XYZ3037,ABC124,23 Jan 12,Sales Executive,E1,Yes,Devenahalli,9 Aug 12,0. 6 ,Male,Bachelors,24,4,25418,14%,Divorced,South,Lack of Growth
+125,XYZ3169,ABC125,28 Jun 12,Sales Executive,E1,Yes,Mukundpur,1 Aug 12,0. 1 ,Male,Bachelors,24,4,25370,26%,Divorced,North,Issues with the Manager
+126,XYZ3061,ABC126,22-Feb-12,Technical Services Officer,M2,Yes,Rajamundry,1-Apr-12,0. 1 ,Male,MBA,35,3,53931,69%,Married,South,More Challenging Job Roles/ Higher designation
+127,XYZ2705,ABC127,14 Dec 06,Sales Executive,E1,Yes,Ameethi,20 Aug 12,5 .8 ,Male,Bachelors,24,3,26813,36%,Divorced,North,Lack of Growth
+128,XYZ2506,ABC128,21 Jul 10,Sales Executive ,E1,Yes,Allahabad,31 Jul 12,2 .0 ,Male,Bachelors,28,2,26409,22%,Married,CENTRAL,Termination - Theft
+129,XYZ2629,ABC129,13 Dec 10,Sales Executive,E1,Yes,Ahmedabad,22 Aug 12,1. 8 ,Male,Bachelors,28,4,26867,97%,Divorced,West,Lack of Growth
+130,XYZ3047,ABC130,6 Feb 12,Sales Executive ,E1,Yes,Kalewadi,21 Aug 12,0. 6 ,Male,Bachelors,26,2,25586,2%,Divorced,West,Issues with the Manager
+131,XYZ0152,ABC131,18 Dec 06,AM - Sales,M1,Yes,MITHAPUR,31 Aug 12,5 .8 ,Male,Bachelors,33,4,51270,11%,Married,East,More Challenging Job Roles/ Higher designation
+132,XYZ3029,ABC132,16 Jan 12,Sales Executive,E1,Yes,HINOO,18 Aug 12,0. 7 ,Male,Bachelors,26,3,26791,67%,Divorced,East,Lack of Growth
+133,XYZ2158,ABC133,12-Aug-09,Sales Executive,E1,Yes,Balasore,18 Sep 12,3 .1 ,Male,Bachelors,25,2,26459,50%,Divorced,East,Issues with the Manager
+134,XYZ3120,ABC134,3 May 12,Sales Executive,E1,Yes,Kanpur,3 May 12,0. 0 ,Male,Bachelors,28,2,26176,38%,Married,CENTRAL,Reasons not known
+135,XYZ2925,ABC135,01-06-2011,Sales Executive ,E1,Yes,Udaipur,23 Aug 12,1. 7 ,Male,Bachelors,28,4,26604,76%,Married,North,Issues with the Manager
+136,XYZ2350,ABC136,15-Feb-10,Sales Executive ,E1,Yes,Koyambedu,24 Sep 12,2 .7 ,Male,Bachelors,26,3,25043,27%,Married,South,Lack of Growth
+137,XYZ2601,ABC137,1-Sep-10,Sales Executive,E1,Yes,Siliguri,21 Sep 12,2 .0 ,Male,Bachelors,26,4,26416,61%,Divorced,East,Lack of Growth
+138,XYZ0677,ABC138,24-Oct-06,Sales Executive ,E1,Yes,Rajamundry,21 Sep 12,5 .10 ,Male,Bachelors,26,2,25138,40%,Married,South,Issues with the Manager
+139,XYZ3093,ABC139,2 Apr 12, Sales Executive,E1,Yes,Hanuman Nagar,2 Apr 12,0. 0 ,Male,Bachelors,24,2,25184,24%,Divorced,East,Reasons not known
+140,XYZ3118,ABC140,1 May 12,Sales Executive,E1,Yes,Loni,6 Aug 12,0. 3 ,Male,Bachelors,26,3,26282,71%,Married,North,Issues with the Manager
+141,XYZ3007,ABC141,1 Jul 12,Technical Services Officer,M2,Yes,Rajamundry,31 Aug 12,0. 1 ,Male,MBA,45,4,53830,55%,Married,South,More Challenging Job Roles/ Higher designation
+142,XYZ1035,ABC142,09-08-2007,Sr Sales Executive,E2,Yes,Indrapuri,10 Sep 12,5 .0 ,Male,Bachelors,29,4,37137,61%,Single ,CENTRAL,Issues with the Manager
+143,XYZ1309,ABC143,24 Dec 07,Sr Sales Executive,E2,Yes,Bally,5 Sep 12,4 .8 ,Male,Bachelors,35,4,30232,42%,Married,East,Lack of Growth
+144,XYZ1511,ABC144,05-05-2008,Sales Executive,E1,Yes,Mandi,27 Aug 12,4 .3 ,Male,Bachelors,25,4,25949,76%,Married,North,Absconding
+145,XYZ2190,ABC145,12-10-2009,Sales Executive ,E1,Yes,Rajamundry,1 Aug 12,2 .7 ,Male,Bachelors,25,2,26305,1%,Married,South,Issues with the Manager
+146,XYZ2579,ABC146,16 Aug 10,Sales Executive,E1,Yes,Hinoo,1 Sep 12,2 .0 ,Male,Bachelors,24,4,25839,79%,Married,East,Lack of Growth
+147,XYZ2751,ABC147,21 Jan 11,Sales Executive,E1,Yes,Lalpur,9 Aug 12,1. 6 ,Male,Bachelors,27,2,26978,70%,Single ,East,Lack of Growth
+148,XYZ2781,ABC148,07-02-2011,Sales Executive ,E1,Yes,Hanuman Nagar,7 Sep 12,1. 2 ,Male,Bachelors,28,3,26414,88%,Single ,East,Issues with the Manager
+149,XYZ2829,ABC149,28 Mar 11, Sales Executive,E1,Yes,Rajamundry,10 Jul 12,1. 3 ,Male,Bachelors,24,4,25339,47%,Married,South,Issues with the Manager
+150,XYZ2837,ABC150,28 Mar 11,Sales Executive,E1,Yes,Rajamundry,5 Aug 12,1. 4 ,Male,Bachelors,25,3,25469,2%,Divorced,South,Issues with the Manager
+151,XYZ3110,ABC151,23 Apr 12,Sales Executive,E1,Yes,Rajamundry,7 May 12,0. 0 ,Male,Bachelors,27,4,26842,93%,Single ,South,Absconding
+152,XYZ3137,ABC152,21 May 12,Sales Executive,E1,Yes,Cuttack,13 Sep 12,0. 3 ,Male,Bachelors,28,3,26852,8%,Married,East,Issues with the Manager
+153,XYZ3139,ABC153,21 May 12,Technical Services Officer,M2,Yes,Indore,31 Aug 12,0. 3 ,Male,MBA,37,2,53488,62%,Single ,CENTRAL,Lack of Growth
+154,XYZ3164,ABC154,21 Jun 12,Sales Executive,E1,Yes,Kangra,1 Aug 12,0. 1 ,Male,Bachelors,27,3,25453,96%,Married,North,Better Salary
+155,XYZ2881,ABC155,16-May-11,Sales Executive ,E1,Yes,Patiala,21 Sep 12,1. 4 ,Male,Bachelors,25,3,25851,90%,Single ,North,Issues with the Manager
+156,XYZ3156,ABC156,11-Jun-12,Sales Executive,E1,Yes,Patiala,21 Sep 12,0. 3 ,Male,Bachelors,27,4,25796,13%,Single ,North,Issues with the Manager
+157,XYZ2532,ABC157,15-Jul-10,Sales Executive ,E1,Yes,Dehradun,21 Sep 12,2 .2 ,Male,Bachelors,24,4,25710,16%,Single ,North,Issues with the Manager
+158,XYZ3152,ABC158,1-Jun-12,Sales Executive,E1,Yes,Dehradun,7 Sep 12,0. 3 ,Male,Bachelors,24,3,26167,54%,Married,North,Issues with the Manager
+159,XYZ2824,ABC159,7-Mar-11,Sales Executive,E1,Yes,Unchahar,22 Sep 12,1. 6 ,Male,Bachelors,25,2,26853,46%,Married,North,Issues with the Manager
+160,XYZ2745,ABC160,19-Jan-11,Sales Executive ,E1,Yes,jagatpur,10 Sep 12,1. 7 ,Male,Bachelors,26,4,25225,17%,Single ,North,Issues with the Manager
+161,XYZ1349,ABC161,1-Feb-08,Sr Sales Executive,E2,Yes,Velachery,3 Sep 12,4 .7 ,Male,Bachelors,35,3,31035,84%,Married,South,Lack of Growth
+162,XYZ3190,ABC162,3-Aug-12,Sales Executive,E1,Yes,Lalpur,3 Aug 12,0. 0 ,Male,Bachelors,27,3,26212,8%,Divorced,East,Lack of Growth
+163,XYZ2827,ABC163,18-Mar-11,Sales Executive,E1,Yes,Hanuman nagar,19 Sep 12,1. 6 ,Male,Bachelors,27,2,25524,10%,Single ,East,Issues with the Manager
+164,XYZ3041,ABC164,30-Jan-12,Sales Executive,E1,Yes,Kashidih,19 Sep 12,0. 7 ,Male,Bachelors,28,3,26500,64%,Divorced,East,Issues with the Manager
+165,XYZ0524,ABC165,15-Dec-05,AM - Sales,M1,Yes,Orissa,7 Oct 12,6 .9 ,Male,Bachelors,31,2,54415,67%,Married,East,Lack of Growth
+166,XYZ2584,ABC166,30-Aug-10,Technical Services Officer,M2,Yes,Bhopal Indrapuri,25 Sep 12,2 .0 ,Male,Bachelors,37,3,54396,67%,Single ,CENTRAL,More Challenging Job Roles/ Higher designation
+167,XYZ3145,ABC167,25-May-12,Sales Executive,E1,Yes,Jabalpur Alok Nagar,19 Sep 12,0. 3 ,Male,Bachelors,26,4,25232,40%,Divorced,CENTRAL,Issues with the Manager
+168,XYZ3099,ABC168,11-Apr-12,Sales Executive,E1,Yes,Allahabad,8 Sep 12,0. 4 ,Male,Bachelors,28,4,25735,75%,Single ,CENTRAL,Termination - Theft
+169,XYZ2833,ABC169,28-Mar-11,Technical Services Officer,M2,Yes,Bhavnagar,23 Sep 12,1. 5 ,Male,Bachelors,45,4,52840,91%,Married,West,Lack of Growth
+170,XYZ2204,ABC170,28-Oct-09,Sales Executive,E1,Yes,Rajamundry,26 Sep 12,2 .10 ,Male,Bachelors,25,3,26307,23%,Divorced,South,Issues with the Manager
+171,XYZ0954,ABC171,1-Jan-07,Sales Executive ,E1,Yes,Rajamundry,26 Sep 12,5 .8 ,Male,Bachelors,27,3,26762,45%,Married,South,Issues with the Manager
+172,XYZ2231,ABC172,14-Dec-08,Zonal Manager,M4,Yes,HO,3 Oct 12,3 .9 ,Male,MBA,42,3,75248,90%,Single ,HO,More Challenging Job Roles/ Higher designation
+173,XYZ1341,ABC173,1-Mar-08,AM - Sales,M1,Yes,Durg,19 Sep 12,4 .6 ,Male,Bachelors,36,4,52427,2%,Divorced,Central,Lack of Growth
+174,XYZ2525,ABC174,21-Jul-10,Sales Executive,E1,Yes,Jhansi,21 Sep 12,2 .2 ,Male,Bachelors,27,4,25670,31%,Married,Central,Issues with the Manager
+175,XYZ3075,ABC175,5-Mar-12,Technical Services Officer,M2,Yes,Koyambedu,20 Sep 12,0. 6 ,Male,Bachelors,39,5,53349,64%,Single ,South,Better Salary
+176,XYZ3089,ABC176,22-Mar-12,Technical Services Officer,M2,Yes,Velachery,27 Sep 12,0. 6 ,Male,Bachelors,41,4,55757,37%,Married,South,Better Salary
+177,XYZ0341,ABC177,15-Oct-06,AM - Sales,M1,Yes,Bangalore,25 Sep 12,5 .11 ,Male,Bachelors,31,3,54413,65%,Divorced,South,Lack of Growth
+178,XYZ3100,ABC178,16-Apr-12,AM - Sales,M1,Yes,Kalewadi,18 Sep 12,0. 5 ,Male,Bachelors,30,2,50710,90%,Divorced,West,More Challenging Job Roles/ Higher designation
+179,XYZ2832,ABC179,28-Mar-11,Sales Executive,E1,Yes,Bhavnagar,26 Sep 12,1. 5 ,Male,Bachelors,24,4,26010,75%,Single ,West,Issues with the Manager
+180,XYZ3052,ABC180,13-Feb-12,Sales Executive,E1,Yes,Behala,17 Sep 12,0. 7 ,Male,Bachelors,24,2,26873,56%,Single ,East,Issues with the Manager
+181,XYZ2244,ABC181,26-Nov-09,Sales Executive,E1,Yes,Behala,27 Sep 12,2 .10 ,Male,Bachelors,26,2,26758,39%,Single ,East,Issues with the Manager
+182,XYZ2478,ABC182,11-Jun-10,Sales Executive,E1,Yes,Bachrawan,25 Sep 12,2 .3 ,Male,Bachelors,27,3,25888,36%,Single ,North,Better Salary
+183,XYZ3080,ABC183,12-Mar-12,Sales Executive,E1,Yes,Patiala,18 Sep 12,0. 6 ,Male,Bachelors,24,4,25063,27%,Single ,North,Issues with the Manager
+184,XYZ3069,ABC184,1-Mar-12,AM - Sales,M1,Yes,Haldwani,20 Sep 12,0. 6 ,Male,Bachelors,34,3,50597,94%,Divorced,North,More Challenging Job Roles/ Higher designation
+185,XYZ2940,ABC185,11-Jul-11,Sr Sales Executive,E2,Yes,HO,17 Sep 12,1. 2 ,Male,Bachelors,30,4,31766,32%,Single ,HO,Lack of Growth
+186,XYZ0665,ABC186,17-Apr-07,Sr Sales Executive ,E2,Yes,Vizag,30 Sep 12,5 .5 ,Male,Bachelors,29,2,31734,31%,Divorced,South,Lack of Growth
+187,XYZ1948,ABC187,3-Nov-08,Sales Executive,E1,Yes,Vizag,30 Sep 12,3 .10 ,Male,Bachelors,26,3,25707,81%,Single ,South,Lack of Growth
+188,XYZ3091,ABC188,19-Mar-12,Technical Services Officer,M2,Yes,Vizag,30 Aug 12,0. 5 ,Male,Bachelors,43,4,54292,8%,Single ,South,Lack of Growth
+189,XYZ3099,ABC189,11-Apr-12,Sales Executive,E1,Yes,Allahabad,8 Sep 12,0. 4 ,Male,Bachelors,28,3,25390,79%,Divorced,Central,Lack of Growth
+190,XYZ3130,ABC190,11-May-12,Sales Executive,E1,Yes,Pune,10 Sep 12,0. 3 ,Male,Bachelors,24,4,25738,33%,Single ,West,Lack of Growth
+191,XYZ3138,ABC191,21-May-12,Technical Services Officer,M2,Yes,Kolkata,1 Sep 12,0. 3 ,Male,Bachelors,42,4,52341,82%,Divorced,East,Lack of Growth
+192,XYZ3197,ABC192,21-Aug-12,Sales Executive,E1,Yes,Hadspar,4 Sep 12,0. 0 ,Male,Bachelors,28,5,25941,56%,Married,West,Lack of Growth
+193,XYZ3202,ABC193,21-Aug-12,Sales Executive,E1,Yes,Ahmedabad,19 Sep 12,0. 0 ,Male,Bachelors,25,2,25815,22%,Single ,West,Lack of Growth
+194,XYZ3213,ABC194,1-Sep-12,Technical Services Officer,M2,Yes,Kalyan,9 Sep 12,0. 0 ,Male,Bachelors,36,3,56633,36%,Divorced,West,Lack of Growth
+195,XYZ3220,ABC195,17-Sep-12,Sales Executive,E1,Yes,Hinoo,21 Sep 12,0. 0 ,Male,Bachelors,25,2,25372,69%,Single ,East,Lack of Growth
+196,XYZ3090,ABC196,23-Mar-12,Sales Executive,E1,Yes,Dehradun,22 Sep 12,0. 5 ,Male,Bachelors,24,2,26723,49%,Single ,North,Better Salary
+197,XYZ2728,ABC197,22-Dec-10,National Sales Head,CXO,Yes,HO,9 Oct 12,1. 9 ,Male,MBA,54,3,233954,45%,Married,HO,More Challenging Job Roles/ Higher designation
+198,XYZ3166,ABC198,21-Jun-12, Sales Executive,E1,Yes,Varanasi,12 Oct 12,0. 3 ,Male,Bachelors,24,5,26558,60%,Divorced,Central,Issues with the Manager
+199,XYZ2935,ABC199,24-Jun-11,Sales Executive,E1,Yes,Badarpur,5 Oct 12,1. 3 ,Male,Bachelors,28,5,26911,8%,Single ,North,Lack of Growth
+200,XYZ1720,ABC200,24-Jun-08,Sales Executive,E1,Yes,Mukundpur,25 Oct 12,4 .4 ,Male,Bachelors,26,5,25295,35%,Divorced,North,Absconding
+201,XYZ3199,ABC201,21-Aug-12,Sales Executive,E1,Yes,Amritsar,4 Oct 12,0. 1 ,Male,Bachelors,28,4,25433,81%,Single ,North,Lack of Growth
+202,XYZ3077,ABC202,10-Mar-12,Sales Executive,E1,Yes,Jammu,25 Oct 12,0. 7 ,Male,Bachelors,26,2,25742,63%,Divorced,North,Absconding
+203,XYZ2437,ABC203,10-May-10,Sales Executive,E1,Yes,Thallakulam,20 Oct 12,2 .5 ,Male,Bachelors,28,4,26602,55%,Married,South,Better Salary
+204,XYZ2189,ABC204,12-Oct-09,Sales Executive,E1,Yes,Vizag,25 Oct 12,3 .0 ,Male,Bachelors,25,4,25964,34%,Married,South,Issues with the Manager
+205,XYZ3060,ABC205,22-Feb-12,Sales Executive,E1,Yes,Vizag,3 Nov 12,0. 8 ,Male,Bachelors,27,3,25746,32%,Single ,South,Issues with the Manager
+206,XYZ1394,ABC206,14-Sep-08,Sales Executive,E1,Yes,Vizag,20 Oct 12,4 .1 ,Male,Bachelors,26,4,26386,87%,Single ,South,Lack of Growth
+207,XYZ3022,ABC207,26-Dec-11,Sales Executive,E1,Yes,Agra,30 Oct 12,0. 10 ,Male,Bachelors,28,5,25587,67%,Divorced,CENTRAL,Higher education
+208,XYZ2868,ABC208,10-May-11,Sales Executive ,E1,Yes,Raipur,1 Nov 12,1. 5 ,Male,Bachelors,26,4,25904,25%,Divorced,CENTRAL,Higher education
+209,XYZ2791,ABC209,7-Feb-11,Sales Executive,E1,Yes,Indore,25 Oct 12,1. 8 ,Male,Bachelors,28,5,26959,92%,Married,CENTRAL,Lack of Growth
+210,XYZ1993,ABC210,1-Dec-08,Sr Sales Executive ,E2,Yes,Vadodara,31 Oct 12,3 .10 ,Male,Bachelors,30,5,31791,22%,Single ,West,Issues with the Manager
+211,XYZ2831,ABC211,28-Mar-11,Sales Executive,E1,Yes,Nasik,1 Nov 12,1. 7 ,Male,Bachelors,27,4,25982,60%,Married,West,Lack of Growth
+212,XYZ2597,ABC212,1-Sep-10,Sales Executive,E1,Yes,Barrackpore,30 Oct 12,2 .1 ,Male,Bachelors,24,2,25218,71%,Single ,East,Issues with the Manager
+213,XYZ3025,ABC213,12-Jan-12,Sales Executive,E1,Yes,Kasidih ,18 Oct 12,0. 9 ,Male,Bachelors,25,5,25907,63%,Married,East,Absconding
+214,XYZ2922,ABC214,1-Jun-11,Sales Executive,E1,Yes,Danapur,26 Oct 12,1. 4 ,Male,Bachelors,26,2,25057,67%,Single ,East,Health Reasons
+215,XYZ3170,ABC215,2-Jul-12,AM - Sales,M1,Yes,Sultanpur,20 Oct 12,0. 3 ,Male,Bachelors,39,4,53571,39%,Divorced,North,Issues with the Manager
+216,XYZ3149,ABC216,1-Jun-12,Sales Executive,E1,Yes,Pondicherry,18 Oct 12,0. 4 ,Male,Bachelors,26,4,25882,51%,Divorced,South,Issues with the Manager
+217,XYZ2334,ABC217,24-Feb-10,AM - Sales,M1,Yes,Velachery,14 Nov 12,2 .8 ,Male,Bachelors,34,4,50040,26%,Single ,South,More Challenging Job Roles/ Higher designation
+218,XYZ0620,ABC218,24-Oct-06,Regional Manager,M3,Yes,HO,23 Oct 12,5 .11 ,Male,MBA,38,5,59615,25%,Divorced,HO,More Challenging Job Roles/ Higher designation
+219,XYZ0112,ABC219,18-Dec-06,AM - Sales,M1,Yes,Admin Jharkhand,31 Oct 12,5 .10 ,Male,Bachelors,38,2,53682,46%,Single ,CENTRAL,More Challenging Job Roles/ Higher designation
+220,XYZ1460,ABC220,15-Apr-08,Sr Sales Executive ,E2,Yes,Cuttack,15 Oct 12,4 .6 ,Male,Bachelors,31,2,31604,14%,Divorced,East,Issues with the Manager
+221,XYZ1758,ABC221,4-Aug-08,Sr Sales Executive ,E2,Yes,Bally,15 Oct 12,4 .2 ,Male,Bachelors,30,4,35619,10%,Married,East,Issues with the Manager
+222,XYZ1773,ABC222,14-Aug-08,Sales Executive,E1,Yes,Garia,13 Oct 12,4 .1 ,Female,Bachelors,26,4,25485,83%,Married,East,Issues with the Manager
+223,XYZ2134,ABC223,25-Jun-09,Sales Executive,E1,Yes,Garia,17 Oct 12,3 .3 ,Male,Bachelors,24,3,25589,15%,Single ,East,Issues with the Manager
+224,XYZ2320,ABC224,2-Feb-10,Sales Executive,E1,Yes,Barasat,15 Oct 12,2 .8 ,Male,Bachelors,27,2,25239,24%,Divorced,East,Issues with the Manager
+225,XYZ2370,ABC225,8-Mar-10,Sr Sales Executive,E2,Yes,ZO Delhi,31 Oct 12,2 .7 ,Male,Bachelors,28,3,38196,84%,Married,North,Issues with the Manager
+226,XYZ2381,ABC226,22-Mar-10,Sales Executive,E1,Yes,Bhubaneswar,20 Oct 12,2 .6 ,Male,Bachelors,26,5,25882,48%,Single ,East,Issues with the Manager
+227,XYZ2644,ABC227,22-Sep-10,Sales Executive,E1,Yes,Balasore,15 Oct 12,2 .0 ,Male,Bachelors,24,4,26605,59%,Single ,East,Issues with the Manager
+228,XYZ3079,ABC228,9-Mar-12,Technical Services Officer,M2,Yes,Daund,18 Sep 12,0. 6 ,Male,Bachelors,41,4,52249,63%,Single ,West,More Challenging Job Roles/ Higher designation
+229,XYZ2771,ABC229,15-Feb-11,Technical Services Officer,M2,Yes,Trissur,30 Nov 12,1. 9 ,Male,Bachelors,37,4,55587,99%,Single ,South,Health Reasons
+230,XYZ2529,ABC230,21-Jul-10,Sales Executive,E1,Yes,Gurubuxganj,15 Nov 12,2 .3 ,Male,Bachelors,27,4,25029,79%,Married,North,Lack of Growth
+231,XYZ2098,ABC231,18-Mar-09,Sr Sales Executive,E2,Yes,Bhubaneswar,16 Nov 12,3 .7 ,Male,Bachelors,35,3,31807,18%,Single ,East,Issues with the Manager
+232,XYZ1971,ABC232,12-May-08,Sr Sales Executive,E2,Yes,Puri,16 Nov 12,4 .6 ,Male,Bachelors,28,4,37270,18%,Married,East,Issues with the Manager
+233,XYZ2610,ABC233,20-Dec-10,Sales Executive ,E1,Yes,Hinoo,16 Nov 12,1. 10 ,Male,Bachelors,24,3,26617,58%,Divorced,East,Issues with the Manager
+234,XYZ3136,ABC234,14-May-12,Sales Executive,E1,Yes,Balasore ,6 Nov 12,0. 5 ,Male,Bachelors,28,2,25208,82%,Single ,East,Issues with the Manager
+235,XYZ2686,ABC235,22-Nov-10,Sales Executive,E1,Yes,Anand,16 Nov 12,1. 11 ,Male,Bachelors,28,2,25273,93%,Single ,West,Issues with the Manager
+236,XYZ2841,ABC236,7-Apr-11,Sales Executive ,E1,Yes,Coimbatore,2 Dec 12,1. 7 ,Male,Bachelors,26,4,26712,25%,Single ,South,Issues with the Manager
+237,XYZ3027,ABC237,14-Jan-12,Sales Executive,E1,Yes,Coimbatore,22 Nov 12,0. 10 ,Male,Bachelors,25,5,26832,27%,Married,South,Issues with the Manager
+238,XYZ3144,ABC238,21-May-12,Sales Executive,E1,Yes,Thrissur,6 Dec 12,0. 6 ,Male,Bachelors,25,5,26260,87%,Divorced,South,Issues with the Manager
+239,XYZ3243,ABC239,8-Oct-12,Technical Services Officer,M2,Yes,Anand,15 Nov 12,0. 1 ,Male,Bachelors,39,4,54073,78%,Divorced,West,More Challenging Job Roles/ Higher designation
+240,XYZ3187,ABC240,1-Aug-12,Sales Executive,E1,Yes,Shapura,20 Nov 12,0. 3 ,Male,Bachelors,27,5,26433,45%,Married,North,Issues with the Manager
+241,XYZ3167,ABC241,27-Jun-12,Sales Executive,E1,Yes,Sultanpur,20 Nov 12,0. 4 ,Male,Bachelors,26,4,25136,100%,Divorced,North,Issues with the Manager
+242,XYZ2739,ABC242,18-Dec-10,Sales Executive ,E1,Yes,Sultanpur,26 Nov 12,1. 11 ,Male,Bachelors,28,4,26150,82%,Married,North,Issues with the Manager
+243,XYZ3179,ABC243,15-Jul-12,Sales Executive,E1,Yes,Vizag,6 Dec 12,0. 4 ,Female,Bachelors,27,4,25470,85%,Married,South,Issues with the Manager
+244,XYZ1967,ABC244,5-Nov-08,Sales Executive,E1,Yes,HO Hyderabad,20 Nov 12,4 .0 ,Male,Bachelors,28,3,26512,29%,Divorced,HO,More Challenging Job Roles/ Higher designation
+245,XYZ3145,ABC245,25-May-12,Sales Executive,E1,Yes,Alok Nagar,19 Sep 12,0. 3 ,Male,Bachelors,24,2,25924,23%,Single ,CENTRAL,Issues with the Manager
+246,XYZ3160,ABC246,18-Jun-12,Sales Executive,E1,Yes,Gurukul,30 Nov 12,0. 5 ,Male,Bachelors,25,3,26137,49%,Single ,West,Issues with the Manager
+247,XYZ3195,ABC247,21-Aug-12,Sr Sales Executive,E2,Yes,HO Hyderabad,6 Nov 12,0. 2 ,Male,Bachelors,28,4,38707,17%,Single ,HO,Issues with the Manager
+248,XYZ3239,ABC248,4-Oct-12,Sr Sales Executive,E2,Yes,ZO Delhi,29 Oct 12,0. 0 ,Male,Bachelors,30,2,34902,96%,Divorced,North,Issues with the Manager
+249,XYZ3254,ABC249,17-Oct-12, Sales Executive,E1,Yes,Loni,17 Oct 12,0. 0 ,Male,Bachelors,26,4,26027,67%,Married,North,Issues with the Manager
+250,XYZ1414,ABC250,13-Mar-08,AM - Sales,M1,Yes,Madurai,19 Dec 12,4 .9 ,Male,Bachelors,35,4,51064,99%,Divorced,South,Better Salary
+251,XYZ3148,ABC251,1-Jun-12,Technical Services Officer,M2,Yes,Trichy,5 Dec 12,0. 6 ,Male,Bachelors,35,2,54094,67%,Married,South,More Challenging Job Roles/ Higher designation
+252,XYZ2553,ABC252,9-Aug-10,Sales Executive ,E1,Yes,Madurai - Thallakulam,13 Dec 12,2 .4 ,Male,Bachelors,28,5,26777,75%,Divorced,South,Better Salary
+253,XYZ3086,ABC253,19-Mar-12,Sales Executive,E1,Yes,Vadodara,20 Dec 12,0. 9 ,Male,Bachelors,24,5,26853,32%,Married,West,Lack of Growth
+254,XYZ0054,ABC254,4-Aug-12,AM - Sales,M1,Yes,HO,31 Dec 12,0. 4 ,Male,Bachelors,34,2,53811,14%,Single ,HO,More Challenging Job Roles/ Higher designation
+255,XYZ2731,ABC255,23-Dec-10,Sales Executive,E1,Yes,HO,29 Dec 12,2 .0 ,Male,Bachelors,26,2,26100,77%,Single ,HO,Lack of Growth
+256,XYZ3150,ABC256,9-Jun-12,Sales Executive,E1,Yes,Gurubuxganj,10 Dec 12,0. 6 ,Male,Bachelors,28,4,25546,15%,Married,North,Lack of Growth
+257,XYZ3298,ABC257,3-Dec-12,Sales Executive,E1,Yes,Jalandhar,12 Dec 12,0. 0 ,Male,Bachelors,24,2,25724,26%,Married,North,Lack of Growth
+258,XYZ2221,ABC258,20-Sep-09,Sales Executive,E1,Yes,Bandel,26 Dec 12,3 .3 ,Female,Bachelors,28,4,25765,10%,Divorced,East,Issues with the Manager
+259,XYZ3193,ABC259,6-Aug-12,Sales Executive ,E1,Yes,Siliguri,28 Dec 12,0. 4 ,Male,Bachelors,28,3,25810,53%,Divorced,East,Lack of Growth
+260,XYZ3028,ABC260,12-Jan-12,Sales Executive,E1,Yes,Salt Lake,2 Jan 13,0. 11 ,Male,Bachelors,26,4,26995,54%,Divorced,East,Issues with the Manager
+261,XYZ2292,ABC261,11-Jan-10,Sales Executive,E1,Yes,Mithapur,21 Dec 12,2 .11 ,Male,Bachelors,27,2,26410,38%,Single ,East,Termination - Theft
+262,XYZ3055,ABC262,22-Feb-12,Sales Executive,E1,Yes,Jhansi,12 Jan 13,0. 10 ,Male,Bachelors,26,4,25529,42%,Divorced,Central,Issues with the Manager
+263,XYZ3230,ABC263,24-Sep-12,Sales Executive,E1,Yes,Badarpur,19 Dec 12,0. 2 ,Male,Bachelors,27,5,25950,66%,Single ,North,Termination - Theft
+264,XYZ1864,ABC264,17-Oct-08,Sr Sales Executive ,E2,Yes,Vyara,31 Dec 12,4 .2 ,Male,Bachelors,31,2,35158,56%,Single ,West,Issues with the Manager
+265,XYZ2314,ABC265,8-Feb-10,Regional Manager,M3,Yes,HO Hyderabad,20 Nov 12,2 .9 ,Male,MBA,39,2,54984,98%,Married,HO,More Challenging Job Roles/ Higher designation
+266,XYZ2992,ABC266,14-Nov-11,Sales Executive,E1,Yes,Vizag,15 Dec 12,1. 1 ,Male,Bachelors,28,5,26305,76%,Divorced,South,Issues with the Manager
+267,XYZ3103,ABC267,16-Apr-12,Sales Executive,E1,Yes,Kalyan,8 Oct 12,0. 5 ,Male,Bachelors,27,4,25410,53%,Divorced,West,Issues with the Manager
+268,XYZ3219,ABC268,11-Sep-12,Sales Executive,E1,Yes,Loni,31 Jan 13,0. 4 ,Male,Bachelors,26,2,25234,78%,Married,North,Lack of Growth
+269,XYZ3183,ABC269,25-Jul-12,Sales Executive,E1,Yes,Rohini,31 Jan 13,0. 6 ,Male,Bachelors,28,4,26042,7%,Single ,North,Issues with the Manager
+270,XYZ3321,ABC270,27-Dec-12,AM - Sales,M1,Yes,HO,7 Jan 13,0. 0 ,Male,Bachelors,30,5,52708,60%,Divorced,HO,Issues with the Manager
+271,XYZ3162,ABC271,21-Jun-12,Technical Services Officer,M2,Yes,Kodinar (Gondal Ext),27 Jan 13,0. 7 ,Male,Bachelors,37,2,55069,63%,Single ,West,Lack of Growth
+272,XYZ3325,ABC272,2-Jan-13,Sales Executive,E1,Yes,PURI,10 Jan 13,0. 0 ,Male,Bachelors,27,3,25601,21%,Divorced,East,Issues with the Manager
+273,XYZ3282,ABC273,28-Nov-12,Sales Executive,E1,Yes,Vizag,9 Jan 13,0. 1 ,Male,Bachelors,24,1,25048,77%,Married,South,Termination - Theft
+274,XYZ3302,ABC274,5-Dec-12,Sales Executive,E1,Yes,Santhome,10 Jan 13,0. 1 ,Male,Bachelors,24,3,26777,78%,Married,South,Higher education
+275,XYZ2036,ABC275,10-Dec-08,Sr Sales Executive ,E2,Yes,Mysore ,9 Feb 13,4 .1 ,Male,Bachelors,35,3,31765,0%,Single ,South,Better Salary
+276,XYZ2652,ABC276,09-Oct-2010,Sales Executive,E1,Yes,Gondal,5 Feb 13,2 .3 ,Female,Bachelors,26,3,25636,26%,Single ,West,Issues with the Manager
+277,XYZ2365,ABC277,08-Mar-2010, Sales Executive,E1,Yes,Gondal,31 Jan 13,2 .10 ,Male,Bachelors,27,5,26063,27%,Married,West,Issues with the Manager
+278,XYZ2523,ABC278,21-Jul-2010,Sales Executive ,E1,Yes,Agra,25 Jan 13,2 .6 ,Male,Bachelors,26,2,26603,80%,Divorced,Central,Termination - Poor Performance
+279,XYZ3275,ABC279,17-Nov-2012,Sales Executive,E1,Yes,Kasidih,23 Jan 13,0. 2 ,Male,Bachelors,24,5,25568,52%,Divorced,East,Termination - Poor Performance
+280,XYZ1172,ABC280,17-Sep-2007,Sales Executive,E1,Yes,Vijaywada,1 Jan 13,5 .3 ,Male,Bachelors,24,1,26178,97%,Married,South,Lack of Growth
+281,XYZ3272,ABC281,14-Nov-2012,Sales Executive,E1,Yes,Vijaywada,16 Jan 13,0. 2 ,Male,Bachelors,28,5,25910,28%,Divorced,South,Better Salary
+282,XYZ3337,ABC282,09-Jan-2013,Sales Executive,E1,Yes,Vijaywada,19 Jan 13,0. 0 ,Male,Bachelors,24,5,25102,16%,Single ,South,Better Salary
+283,XYZ3259,ABC283,22-Oct-2012,Sales Executive,E1,Yes,Badarpur,17 Jan 13,0. 2 ,Male,Bachelors,27,5,26623,70%,Married,North,Issues with the Manager
+284,XYZ3270,ABC284,14-Nov-2012,Sales Executive,E1,Yes,Jalandhar,31 Jan 13,0. 2 ,Male,Bachelors,24,1,25168,81%,Single ,North,Issues with the Manager
+285,XYZ2675,ABC285,10-Nov-10,Sales Executive,E1,Yes,Delhi,10 Jan 13,2 .2 ,Male,Bachelors,28,2,25658,80%,Married,North,More Challenging Job Roles/ Higher designation
+286,XYZ2230,ABC286,9-Dec-09,Sales Executive,E1,Yes,Vijaywada,1 Jan 13,3 .0 ,Male,Bachelors,25,4,25440,92%,Divorced,South,Issues with the Manager
+287,XYZ3088,ABC287,21-Mar-12,Sales Executive,E1,Yes,Vellore,31 Jan 13,0. 10 ,Male,Bachelors,27,5,25247,54%,Divorced,South,Health Reasons
+288,XYZ2805,ABC288,1-Mar-11,Sales Executive,E1,Yes,Mysore,19 Feb 13,1. 11 ,Male,Bachelors,27,1,26830,68%,Divorced,South,Better Salary
+289,XYZ2714,ABC289,2-Dec-10,Sales Executive,E1,Yes,Koyambedu,25 Feb 13,2 .2 ,Male,Bachelors,24,3,26216,85%,Single ,South,Better Salary
+290,XYZ3341,ABC290,16-Jan-13,Sales Executive,E1,Yes,Cuttack,7 Feb 13,0. 0 ,Male,Bachelors,28,4,25497,85%,Single ,East,Issues with the Manager
+291,XYZ3305,ABC291,6-Dec-12,Sales Executive,E1,Yes,Barrackpore,1 Feb 13,0. 1 ,Male,Bachelors,28,5,25037,17%,Married,East,Issues with the Manager
+292,XYZ1757,ABC292,14-Aug-08,Sr Sales Executive,E2,Yes,Barrackpore,10 Feb 13,4 .5 ,Male,Bachelors,27,5,34390,48%,Married,East,Lack of Growth
+293,XYZ3297,ABC293,1-Dec-12,Sales Executive,E1,Yes,Jaipur,5 Feb 13,0. 2 ,Male,Bachelors,28,3,25733,33%,Divorced,North,Termination - Poor Performance
+294,XYZ3277,ABC294,27-Mar-10,Sales Executive,E1,Yes,Jaipur,21 Feb 13,2 .10 ,Male,Bachelors,24,4,26680,62%,Single ,North,Termination - Poor Performance
+295,XYZ2144,ABC295,15-Jun-09,Sales Executive ,E1,Yes,Cuttack,9 Feb 13,3 .7 ,Male,Bachelors,25,2,26218,92%,Married,East,Issues with the Manager
+296,XYZ3309,ABC296,10-Dec-12,Sales Executive,E1,Yes,bbsr,23 Feb 13,0. 2 ,Male,Bachelors,25,5,26786,12%,Married,East,Termination - Poor Performance
+297,XYZ3359,ABC297,1-Feb-13,Sales Executive,E1,Yes,Siliguri,9 Feb 13,0. 0 ,Male,Bachelors,25,4,25123,48%,Divorced,East,Issues with the Manager
+298,XYZ3240,ABC298,8-Oct-12,Technical Services Officer,M2,Yes,bbsr,23 Feb 13,0. 4 ,Male,Bachelors,44,4,52009,96%,Divorced,East,Termination - Poor Performance
+299,XYZ2434,ABC299,17-May-10,Sales Executive,E1,Yes,Thallakulam,2 Mar 13,2 .9 ,Male,Bachelors,24,5,26474,82%,Married,South,Better Salary
+300,XYZ1815,ABC300,1-Sep-08,Sales Executive,E1,Yes,Hadapsar (Pune),13 Mar 13,4 .6 ,Male,Bachelors,24,5,26050,11%,Divorced,West,Issues with the Manager
+301,XYZ1375,ABC301,4-Mar-08,Sales Executive,E1,Yes,Vijaywada,16 Feb 13,4 .11 ,Male,Bachelors,24,4,26973,83%,Divorced,South,Issues with the Manager
+302,XYZ1665,ABC302,1-Jul-08,Sales Executive ,E1,Yes,Vijaywada,23 Feb 13,4 .7 ,Male,Bachelors,27,1,26775,11%,Divorced,South,Termination - Poor Performance
+303,XYZ2219,ABC303,18-Nov-09,Sales Executive,E1,Yes,Vijaywada,23 Feb 13,3 .3 ,Male,Bachelors,24,1,25242,72%,Married,South,Termination - Poor Performance
+304,XYZ2317,ABC304,10-Feb-10,Sales Executive,E1,Yes,Vijaywada,16 Feb 13,3 .0 ,Male,Bachelors,25,3,26490,56%,Single ,South,Termination - Poor Performance
+305,XYZ3310,ABC305,14-Dec-12,Sales Executive,E1,Yes,Vijaywada,19 Feb 13,0. 2 ,Male,Bachelors,24,2,25549,78%,Single ,South,Termination - Poor Performance
+306,XYZ3196,ABC306,21-Aug-12,Sales Executive,E1,Yes,Velachery,5 Mar 13,0. 6 ,Male,Bachelors,28,1,26746,47%,Single ,South,Issues with the Manager
+307,XYZ3294,ABC307,1-Dec-12,Sales Executive,E1,Yes,Avadi,4 Mar 13,0. 3 ,Male,Bachelors,27,1,26251,39%,Married,South,Better Salary
+308,XYZ3070,ABC308,2-Mar-12,Technical Services Officer,M2,Yes,Koramangala,27 Mar 13,1. 0 ,Male,Bachelors,40,3,53484,27%,Single ,South,More Challenging Job Roles/ Higher designation
+309,XYZ2234,ABC309,10-Dec-09,Zonal Manager,M4,Yes,Chennai,15 Apr 13,3 .4 ,Female,MBA,40,4,84759,85%,Married,South,More Challenging Job Roles/ Higher designation
+310,XYZ1483,ABC310,3-Apr-08,Sr Sales Executive,E2,Yes,Chennai,5 Apr 13,5 .0 ,Male,Bachelors,29,3,37508,41%,Married,South,Better Salary
+311,XYZ3329,ABC311,2-Jan-13,Sales Executive,E1,Yes,Vasna,4 Mar 13,0. 2 ,Male,Bachelors,28,1,25593,88%,Single ,West,Termination - Poor Performance
+312,XYZ3394,ABC312,2-Mar-13,Sales Executive,E1,Yes,Rajkot,7 Mar 13,0. 0 ,Male,Bachelors,24,3,26670,76%,Divorced,West,Lack of Growth
+313,XYZ3201,ABC313,21-Aug-12,Sales Executive,E1,Yes,Badlapur,6 Mar 13,0. 6 ,Male,Bachelors,24,3,25252,32%,Married,West,Absconding
+314,XYZ3104,ABC314,16-Apr-12,Sales Executive ,E1,Yes,Badlapur,6 Mar 13,0. 10 ,Male,Bachelors,27,5,25981,10%,Divorced,West,Absconding
+315,XYZ3393,ABC315,2-Mar-13,Sales Executive,E1,Yes,Anand (Vadodara Ext),2 Mar 13,0. 0 ,Male,Bachelors,26,3,25948,73%,Single ,West,Termination - Poor Performance
+316,XYZ3111,ABC316,23-Apr-12,AM - Sales,M1,Yes,Navapur (Vyara Ext),15 Mar 13,0. 10 ,Male,Bachelors,39,2,53851,47%,Single ,West,Lack of Growth
+317,XYZ2003,ABC317,18-Dec-08,Sr Sales Executive ,E2,Yes,Rajkot,15 Mar 13,4 .2 ,Male,Bachelors,35,3,33922,31%,Single ,West,Health Reasons
+318,XYZ1306,ABC318,5-Jan-08,AM - Sales,M1,Yes,Kotra,31 Mar 13,5 .2 ,Male,Bachelors,33,2,54517,94%,Divorced,Central,Lack of Growth
+319,XYZ1912,ABC319,25-Nov-08,Sr Sales Executive,E2,Yes,Amritsar,22 Mar 13,4 .3 ,Male,Bachelors,30,3,34250,36%,Married,North,Lack of Growth
+320,XYZ3059,ABC320,27-Feb-12,Sales Executive,E1,Yes,Vijay Vihar,11 Mar 13,1. 0 ,Male,Bachelors,25,5,26784,71%,Married,North,Issues with the Manager
+321,XYZ3106,ABC321,6-Apr-12,Sales Executive,E1,Yes,Bachrawan,16 Mar 13,0. 11 ,Male,Bachelors,25,4,26671,51%,Married,North,Issues with the Manager
+322,XYZ3159,ABC322,18-Jun-12,Sales Executive,E1,Yes,Jagdishpuram,2 Mar 13,0. 8 ,Male,Bachelors,28,4,25775,13%,Married,North,Lack of Growth
+323,XYZ1538,ABC323,26-May-08,AM - Sales,M1,Yes,Guntur,15 Mar 13,4 .9 ,Male,Bachelors,37,2,53841,69%,Divorced,South,Lack of Growth
+324,XYZ3221,ABC324,13-Sep-12,Sales Executive,E1,Yes,Guntur,7 Mar 13,0. 5 ,Male,Bachelors,25,3,25813,11%,Married,South,Lack of Growth
+325,XYZ0207,ABC325,12-Dec-05,Sr Sales Executive,E2,Yes,Guntur,12 Mar 13,7 .3 ,Male,Bachelors,28,1,36498,11%,Divorced,South,Lack of Growth
+326,XYZ0183,ABC326,21-Jul-04,AM - Sales,M1,Yes,Guntur,31 Mar 13,8 .8 ,Male,Bachelors,36,3,51796,82%,Divorced,South,Termination - Poor Performance
+327,XYZ3381,ABC327,22-Feb-13,Sales Executive,E1,Yes,Hinoo,8 Mar 13,0. 0 ,Male,Bachelors,27,4,26678,49%,Divorced,East,Issues with the Manager
