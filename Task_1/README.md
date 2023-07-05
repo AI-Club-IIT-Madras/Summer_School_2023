@@ -30,4 +30,4 @@ The aim of this challenge is to visualize and get the essence of that the [datas
 
 - You are requested to come up with any number of visual insights - graphs and provide a suitable inference and use case for the same. There is no need to come up with Predictive models or analysis but you can do the same if you are interested as well.
 
-- If you are done with gathering all you insights, you are requested to submit the Jupyter Notebook on [this form](https://forms.gle/i744uycdRUvPxn976). Please note that every individual, even if you had worked as a team, should submit the form to record participation.
+- If you are done with gathering all you insights, you are requested to submit the Jupyter Notebook on [this form](https://forms.gle/uacEQXJyLPxHojAc7). Please note that every individual, even if you had worked as a team, should submit the form to record participation.
