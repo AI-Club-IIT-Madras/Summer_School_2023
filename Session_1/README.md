@@ -6,6 +6,8 @@ Notebooks:
 
 Presentation: [Link](./Session_1/Summer%20School%20Session%201.pdf)
 
+Session Recording: [Link](https://www.youtube.com/watch?v=A2U0c21IsfA)
+
 ### GiT
 
 To better understand and to know more functionality of git, refer these following youtube videos,
