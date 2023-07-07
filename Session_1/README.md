@@ -4,7 +4,7 @@ Notebooks:
 2) Numpy: [Link](./Summer_School_Numpy.ipynb)
 3) Pandas: [Link](./Summer_School_Pandas.ipynb)
 
-Presentation: [Link](./Session_1/Summer%20School%20Session%201.pdf)
+Presentation: [Link](./Summer%20School%20Session%201.pdf)
 
 Session Recording: [Link](https://www.youtube.com/watch?v=A2U0c21IsfA)
 
