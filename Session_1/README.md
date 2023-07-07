@@ -1,7 +1,10 @@
 ## 	Intro to Python, Numpy, Pandas and Matplotlib
-Notebook: [Link]() 
+Notebooks: 
+1) Python 101: [Part 1](./Summer_School_Python101Part1.ipynb) | [Part 2](./Summer_School_Python101Part2.ipynb)
+2) Numpy: [Link](./Summer_School_Numpy.ipynb)
+3) Pandas: [Link](./Summer_School_Pandas.ipynb)
 
-Presentation: [Link]()
+Presentation: [Link](./Session_1/Summer%20School%20Session%201.pdf)
 
 ### GiT
 
