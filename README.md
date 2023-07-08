@@ -6,13 +6,13 @@ This repository contains all the slides/notes used during the Summer School cond
 
 | Task | Description | Link | Deadline |
 | :--- | :---------- | :--- | :------- |
-| 1    | Data Visualization Challenge | [Task 1](/Task_1/) | July 11th 2023, 11:59 PM |
+| 1    | Data Visualization Challenge | [Task 1](/Task_1/) | July 15th 2023, 11:59 PM |
 
 ## Sessions
 
 | Session | Date           | Topic                                               | Session Notes/Slides | Recording     |
 | :-----: | :------------  | :-------------------------------------------------- | :------------------- | :------------- |
-| 1       | July 7th 2023  | Intro to Python, Numpy, Pandas and Matplotlib           | [Session 1](/Session_1/) | [Recording](INSERT_LINK) |
+| 1       | July 7th 2023  | Intro to Python, Numpy, Pandas and Matplotlib           | [Session 1](/Session_1/) | [Recording](https://www.youtube.com/watch?v=A2U0c21IsfA) |
 | 2       | July 10th 2023  | Linear, Logistic and Polynomial Regression | Session 2 | Recording |
 | 3       | July 12th 2023 | KNNs, SVMs, Naive Bayes Classifiers      | Session 3 | Recording |
 | 4       | July 14th 2023 | Decision Trees, Random Forest and Ensemble methods      | Session 4 | Recording |
