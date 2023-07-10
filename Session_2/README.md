@@ -1,7 +1,12 @@
 ## 	Intro to Python, Numpy, Pandas and Matplotlib
-Notebook: [Link]() 
+### Notebooks
+Linear Regression: [Link](/Linear_Regression.ipynb/)
+Polynomial Regression: [Link](/Polynomial_Regression.ipynb/)
+Logistic Regression: [Link](/Logistic_Regression.ipynb/)
 
-Presentation: [Link]()
+###Presentations
+Linear and Polynomial Regression: [Link](/Linear&Polunomial_Regression.pdf/)
+Logistic Regression: [Link](/Logistic_Regression.pdf/)
 
 ### GiT
 
