@@ -2,6 +2,8 @@
 
 This repository contains all the slides/notes used during the Summer School conducted at IIT Madras.
 
+All the session recordings are present in this YouTube playlist - [Link](https://youtube.com/playlist?list=PLWkFppvOIj_RK8MBQEgipsDvahLiQJYQH)
+
 ## Tasks
 
 | Task | Description | Link | Deadline |
