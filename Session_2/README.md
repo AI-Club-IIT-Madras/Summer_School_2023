@@ -1,4 +1,4 @@
-## 	Matplotlib, Linear Regression, Polynomial Regression and Logistic Regression
+## 	Matplotlib; Linear, Polynomial and Logistic Regression
 ### Notebooks
 Matplotlib: [Link](./Matplotlib.ipynb)
 
