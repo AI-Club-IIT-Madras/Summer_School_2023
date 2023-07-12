@@ -1,14 +1,12 @@
-## 	Matplotlib; Linear, Polynomial and Logistic Regression
+## 	KNNs, SVMs, Naive Bayes Classifiers
 ### Notebooks
-Matplotlib: [Link](./Matplotlib.ipynb)
+SVMs: [Link](./SVMs.ipynb)
 
-Linear Regression: [Link](./Linear_Regression.ipynb)
+KNNs: [Link](./KNN.ipynb)
 
-Polynomial Regression: [Link](./Polynomial_Regression.ipynb)
-
-Logistic Regression: [Link](./Logistic_Regression.ipynb)
+Naive Bayes: [Link](./Naive_Bayes.ipynb)
 
 ### Presentations
-Linear and Polynomial Regression: [Link](./Linear&Polunomial_Regression.pdf)
+SVMs: [Link](./SVMs.pdf)
 
-Logistic Regression: [Link](./Logistic_Regression.pdf)
+KNNs and Naive Bayes: [Link](./KNN_NaiveBayes.pdf)
