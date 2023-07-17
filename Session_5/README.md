@@ -1,10 +1,5 @@
-## 	Decision Trees, Random Forest and Ensemble methods
-### Notebooks
-Decision Trees: [Link](./Decision_trees.ipynb)
+## 	Intro to Deep Learning, Neural Networks, Pytorch basics
 
-Ensemble Methods: [Link](./EnsembleMethods.ipynb)
+Notebooks - [Link](/Notebooks/)
 
-### Presentations
-Decision Trees: [Link](./DecisionTrees.pdf)
-
-Logistic Regression: [Link](./Ensemble_methods.pdf)
+Presentations - [Link](/Presentations/)
