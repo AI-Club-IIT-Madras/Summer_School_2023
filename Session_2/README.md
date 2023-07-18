@@ -9,6 +9,6 @@ Polynomial Regression: [Link](./Polynomial_Regression.ipynb)
 Logistic Regression: [Link](./Logistic_Regression.ipynb)
 
 ### Presentations
-Linear and Polynomial Regression: [Link](./Linear&Polunomial_Regression.pdf)
+Linear and Polynomial Regression: [Link](./Linear&Polynomial_Regression.pdf)
 
 Logistic Regression: [Link](./Logistic_Regression.pdf)
