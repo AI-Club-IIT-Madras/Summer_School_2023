@@ -1,4 +1,4 @@
-## 	Intro to Deep Learning, Neural Networks, Pytorch basics
+## 	Data preprocessing, Feature Engineering, Regularization, Optimizers
 
 Notebooks - [Link](./Notebooks/)
 
