@@ -19,7 +19,7 @@ All the session recordings are present in this YouTube playlist - [Link](https:/
 | 3       | July 12th 2023 | KNNs, SVMs, Naive Bayes Classifiers      | [Session 3](/Session_3/) | [Recording](https://www.youtube.com/live/m7VHg2an9yg?feature=share) |
 | 4       | July 14th 2023 | Decision Trees, Random Forest and Ensemble methods      | [Session 4](/Session_4/) | [Recording](https://youtube.com/live/YczMERvNpPA) |
 | 5       | July 17th 2023 | Intro to Deep Learning, Neural Networks, Pytorch basics            | [Session 5](/Session_5/) | Recording |
-| 6       | July 19th 2023 | Add-ons to improve model performance: Data preprocessing, Feature Engineering, Regularization, Optimizers| Session 6 | Recording |
+| 6       | July 19th 2023 | Add-ons to improve model performance: Data preprocessing, Feature Engineering, Regularization, Optimizers| [Session 6](/Session_6/) | Recording |
 | 7       | July 21st 2023 | CNNs (Theory and Implementation) | Session 7 | Recording |
 | 8       | July 24th 2023 | Object Detection - Haar Cascade, HOGs, RCNN, YOLO | Session 8 | Recording |
 | 9       | July 26th 2023 | Intro to Reinforcement Learning | Session 9 | Recording |
