@@ -1,4 +1,4 @@
-## 	Data preprocessing, Feature Engineering, Regularization, Optimizers
+## 	CNNs (Theory and Implementation)
 
 Notebooks - [Link](./Notebooks/)
 
