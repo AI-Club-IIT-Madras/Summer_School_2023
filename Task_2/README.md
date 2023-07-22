@@ -10,7 +10,7 @@ Your task here is to predict the target column using the given features with var
 
 ## Evaluation metric
 
-This is a Regression problem, so the chosen evaluation metric is R2 score, Know more about R2 score [here](!https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html).
+This is a Regression problem, so the chosen evaluation metric is R2 score, Know more about R2 score [here](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.r2_score.html).
 ## Rules
 
 - Each individual is allowed to make 10 submissions every day
