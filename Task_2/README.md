@@ -17,17 +17,3 @@ This is a Regression problem, so the chosen evaluation metric is R2 score , Know
 - The leaderboard will be based only on 60% of the test data. - *Rule 2*
 
 - Final Ranking will be based on the whole test data - *Rule 3*
-
-<u>Timeline</u>
-
-- **start :**
-
-- **end :**
-
-<u>Contact </u> 
-
-- contact - 1
-
-- contact - 2
-
-- contact - 3
