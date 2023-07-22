@@ -9,6 +9,7 @@ All the session recordings are present in this YouTube playlist - [Link](https:/
 | Task | Description | Link | Deadline |
 | :--- | :---------- | :--- | :------- |
 | 1    | Data Visualization Challenge | [Task 1](/Task_1/) | July 15th 2023, 11:59 PM |
+| 2    | Kaggle Contest | [Task 2](/Task_2/) | July 27th 2023, 11:59 PM |
 
 ## Sessions
 
