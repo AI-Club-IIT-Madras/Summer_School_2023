@@ -1,4 +1,4 @@
-## 	CNNs (Theory and Implementation)
+## 	Object Detection - Haar Cascade, HOGs, RCNN, YOLO
 
 Notebooks - [Link](./Notebooks/)
 
