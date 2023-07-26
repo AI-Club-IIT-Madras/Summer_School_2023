@@ -1,4 +1,4 @@
-## 	CNNs (Theory and Implementation)
+## 	Intro to Reinforcement Learning
 
 Notebooks - [Link](./Notebooks/)
 
