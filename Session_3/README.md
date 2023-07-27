@@ -1,4 +1,5 @@
 ## 	KNNs, SVMs, Naive Bayes Classifiers
+
 ### Notebooks
 SVMs: [Link](./SVMs.ipynb)
 
