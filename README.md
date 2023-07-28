@@ -23,6 +23,6 @@ All the session recordings are present in this YouTube playlist - [Link](https:/
 | 6       | July 19th 2023 | Add-ons to improve model performance: Data preprocessing, Feature Engineering, Regularization, Optimizers| [Session 6](/Session_6/) | [Recording](https://www.youtube.com/watch?v=Ia_v6VbdEDU&list=PLWkFppvOIj_RK8MBQEgipsDvahLiQJYQH&index=7) |
 | 7       | July 21st 2023 | CNNs (Theory and Implementation) | [Session 7](/Session_7/) | [Recording](https://www.youtube.com/watch?v=h45fwxvresA&list=PLWkFppvOIj_RK8MBQEgipsDvahLiQJYQH&index=9) |
 | 8       | July 24th 2023 | Object Detection - Haar Cascade, HOGs, RCNN, YOLO | [Session 8](/Session_8/) | [Recording](https://www.youtube.com/watch?v=aDmyoCaFQe0&list=PLWkFppvOIj_RK8MBQEgipsDvahLiQJYQH&index=10) |
-| 9       | July 26th 2023 | Intro to Reinforcement Learning | [Session 9](/Session_9/) | Recording |
+| 9       | July 26th 2023 | Intro to Reinforcement Learning | [Session 9](/Session_9/) | [Recording](https://youtu.be/L57sTJfZfO0) |
 
 
